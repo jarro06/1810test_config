@@ -1,0 +1,19 @@
+generalInformation:
+  serviceAdminEmail: jarro06@gmail.com
+  gheUsername: jarro06
+  gheToken: ""
+  adpAccessToken: ""
+jira:
+  adminToken: ""
+projectInformation:
+  projectName: Mój super nowy projekt
+  projectShortName: 1810test
+  buildType: gradle
+  testInstance: true
+  preprodInstance: false
+  uatInstance: false
+automationService:
+  jenkinsOrGithubActions: jenkins
+  jenkinsWebhook: ""
+gheOrganisation:
+  organisationName: jarro06
