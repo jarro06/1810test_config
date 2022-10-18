@@ -1,0 +1,60 @@
+generalInformation:
+  serviceAdminEmail: jarro06@gmail.com
+  gheUsername: jarro06
+  billingAccount: "1234"
+  billingTeamName: "1234"
+  gheToken: ""
+  adpAccessToken: ""
+jira:
+  adminToken: ""
+  projectKey: ""
+  projectName: ""
+  leadUsername: backstage-config-file
+  documentationUrl: ""
+projectInformation:
+  projectName: Mój super nowy projekt
+  projectShortName: 1810test
+  buildType: maven
+  testInstance: true
+  preprodInstance: true
+  uatInstance: false
+cloudService:
+  awsOrAzure: ""
+  deploymentLocation: ""
+  acpOrCRP: ""
+  displayName: ""
+  version: ""
+  productionCluster: false
+  subscriptionId: ""
+  enableStorageProvisioning: true
+  ingressSubnetName: ""
+  clusterSubnetName: ""
+  adAdminGroupName: ""
+  adViewerGroupName: ""
+  adEditorGroupName: ""
+  privateDnsZone: ""
+  awsAccountId: ""
+  instanceType: ""
+  r53HostedZoneDomainName: ""
+  sshWorkerKey: ""
+  availabilityZones: ""
+  az1HarmonizedSubnetId: ""
+  az1WorkerSubnetId: ""
+  az1PodSubnetId: ""
+  az2HarmonizedSubnetId: ""
+  az2WorkerSubnetId: ""
+  az2PodSubnetId: ""
+  az3HarmonizedSubnetId: ""
+  az3WorkerSubnetId: ""
+  az3PodSubnetId: ""
+  workerSecurityGroupIds: ""
+  ingressSecurityGroupIds: ""
+  customDefinedAutomationAdminRole: ""
+automationService:
+  jenkinsOrGithubActions: jenkins
+  jenkinsWebhook: ""
+gheOrganisation:
+  organisationName: jarro06
+  isNew: false
+testingTools:
+  sonarQube: true
